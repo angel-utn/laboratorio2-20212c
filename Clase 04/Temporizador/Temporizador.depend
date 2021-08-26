@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1630018542 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 04/Temporizador/main.cpp
+	<iostream>
+	"Temporizador.h"
+
+1630017924 /home/angel/UTN/Github/laboratorio2-20212c/Clase 04/Temporizador/include/Temporizador.h
+
+1630018695 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 04/Temporizador/src/Temporizador.cpp
+	<iostream>
+	"Temporizador.h"
+
