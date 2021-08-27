@@ -9,3 +9,13 @@
 	<iostream>
 	"Temporizador.h"
 
+1630022939 source:e:\projects\lab01-tp08-ej08\laboratorio2-20212c\clase 04\temporizador\main.cpp
+	<iostream>
+	"include/Temporizador.h"
+
+1630022136 e:\projects\lab01-tp08-ej08\laboratorio2-20212c\clase 04\temporizador\include\temporizador.h
+
+1630023258 source:e:\projects\lab01-tp08-ej08\laboratorio2-20212c\clase 04\temporizador\src\temporizador.cpp
+	<iostream>
+	"../include/Temporizador.h"
+
