@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1630625347 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 05/Composicion/src/Fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1630624689 /home/angel/UTN/Github/laboratorio2-20212c/Clase 05/Composicion/include/Fecha.h
+
+1630627151 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 05/Composicion/main.cpp
+	<iostream>
+	"Reunion.h"
+
+1630625505 /home/angel/UTN/Github/laboratorio2-20212c/Clase 05/Composicion/include/Hora.h
+
+1630625827 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 05/Composicion/src/Hora.cpp
+	<iostream>
+	"Hora.h"
+
+1630628265 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 05/Composicion/src/Reunion.cpp
+	<iostream>
+	"Reunion.h"
+
+1630628026 /home/angel/UTN/Github/laboratorio2-20212c/Clase 05/Composicion/include/Reunion.h
+	"Fecha.h"
+	"Hora.h"
+
+1631828258 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Composicion/main.cpp
+	<iostream>
+	"Reunion.h"
+
+1631828939 /home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Composicion/include/Reunion.h
+	"Fecha.h"
+	"Hora.h"
+	"Persona.h"
+
+1630624689 /home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Composicion/include/Fecha.h
+
+1630625505 /home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Composicion/include/Hora.h
+
+1631828411 /home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Composicion/include/Persona.h
+
+1630625347 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Composicion/src/Fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1630625827 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Composicion/src/Hora.cpp
+	<iostream>
+	"Hora.h"
+
+1631828437 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Composicion/src/Persona.cpp
+	<iostream>
+	"Persona.h"
+
+1631829138 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Composicion/src/Reunion.cpp
+	<iostream>
+	"Reunion.h"
+

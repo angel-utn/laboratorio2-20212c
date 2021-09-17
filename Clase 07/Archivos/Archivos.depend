@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1631834423 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/main.cpp
+	<iostream>
+	"Reunion.h"
+
+1631836637 /home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/include/Reunion.h
+	"Fecha.h"
+	"Hora.h"
+
+1630624689 /home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/include/Fecha.h
+
+1630625505 /home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/include/Hora.h
+
+1630625347 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/src/Fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1630625827 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/src/Hora.cpp
+	<iostream>
+	"Hora.h"
+
+1631836568 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/src/Reunion.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Reunion.h"
+
