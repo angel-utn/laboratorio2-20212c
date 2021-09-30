@@ -36,11 +36,16 @@
 		</Compiler>
 		<Unit filename="include/Fecha.h" />
 		<Unit filename="include/Hora.h" />
+		<Unit filename="include/Mensaje.h" />
 		<Unit filename="include/Reunion.h" />
+		<Unit filename="include/ReunionManager.h" />
+		<Unit filename="include/rlutil.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Fecha.cpp" />
 		<Unit filename="src/Hora.cpp" />
+		<Unit filename="src/Mensaje.cpp" />
 		<Unit filename="src/Reunion.cpp" />
+		<Unit filename="src/ReunionManager.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

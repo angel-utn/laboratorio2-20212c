@@ -2,20 +2,35 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="src/Reunion.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+	<File name="src/Reunion.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2570" topLine="101" />
+			<Cursor1 position="2812" topLine="116" />
 		</Cursor>
 	</File>
-	<File name="include/Reunion.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+	<File name="include/Reunion.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1103" topLine="21" />
+			<Cursor1 position="828" topLine="18" />
 		</Cursor>
 	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+	<File name="src/Mensaje.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="186" topLine="8" />
+			<Cursor1 position="187" topLine="1" />
 		</Cursor>
 	</File>
-	<EditorTabsLayout layout="a4ff6c00614cf94e0040b59f00000002=*0;Archivos:src/Reunion.cpp,1;Archivos:main.cpp,2;Archivos:include/Reunion.h@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=528;besth=330;minw=528;minh=330;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=a4ff6c00614cf94e0040b59f00000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+	<File name="main.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1434" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src/ReunionManager.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include/Mensaje.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="304" topLine="0" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="dfb7200061562c160063aa8a00000002=0;Archivos:src/Reunion.cpp,*1;Archivos:main.cpp,2;Archivos:include/Reunion.h,3;Archivos:include/ReunionManager.h,4;Archivos:src/ReunionManager.cpp@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=640;besth=330;minw=640;minh=330;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=dfb7200061562c160063aa8a00000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
 </CodeBlocks_layout_file>
