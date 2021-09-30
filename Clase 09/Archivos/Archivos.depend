@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1631834423 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/main.cpp
+	<iostream>
+	"Reunion.h"
+
+1631836637 /home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/include/Reunion.h
+	"Fecha.h"
+	"Hora.h"
+
+1630624689 /home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/include/Fecha.h
+
+1630625505 /home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/include/Hora.h
+
+1630625347 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/src/Fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1630625827 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/src/Hora.cpp
+	<iostream>
+	"Hora.h"
+
+1631836568 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 07/Archivos/src/Reunion.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Reunion.h"
+
+1630625347 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 08/Archivos/src/Fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1630624689 /home/angel/UTN/Github/laboratorio2-20212c/Clase 08/Archivos/include/Fecha.h
+
+1630625827 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 08/Archivos/src/Hora.cpp
+	<iostream>
+	"Hora.h"
+
+1630625505 /home/angel/UTN/Github/laboratorio2-20212c/Clase 08/Archivos/include/Hora.h
+
+1632439545 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 08/Archivos/src/Reunion.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Reunion.h"
+
+1632439129 /home/angel/UTN/Github/laboratorio2-20212c/Clase 08/Archivos/include/Reunion.h
+	"Fecha.h"
+	"Hora.h"
+
+1632439777 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 08/Archivos/main.cpp
+	<iostream>
+	"Reunion.h"
+
+1630625347 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/src/Fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1630624689 /home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/include/Fecha.h
+
+1630625827 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/src/Hora.cpp
+	<iostream>
+	"Hora.h"
+
+1630625505 /home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/include/Hora.h
+
+1633042668 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/src/Reunion.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Reunion.h"
+
+1633042515 /home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/include/Reunion.h
+	"Fecha.h"
+	"Hora.h"
+
+1633042803 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/main.cpp
+	<iostream>
+	"rlutil.h"
+	"Mensaje.h"
+	"ReunionManager.h"
+
+1633037911 /home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/include/rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1633039478 /home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/include/Mensaje.h
+	"rlutil.h"
+
+1633039436 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/src/Mensaje.cpp
+	<iostream>
+	"Mensaje.h"
+	"rlutil.h"
+
+1633042815 /home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/include/ReunionManager.h
+
+1633042452 source:/home/angel/UTN/Github/laboratorio2-20212c/Clase 09/Archivos/src/ReunionManager.cpp
+	<iostream>
+	"Mensaje.h"
+	"Reunion.h"
+	"ReunionManager.h"
+	"rlutil.h"
+
